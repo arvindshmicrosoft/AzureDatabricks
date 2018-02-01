@@ -1,5 +1,6 @@
 # Databricks notebook source
 R.Version()
+i <- 4 + 5
 
 # COMMAND ----------
 
